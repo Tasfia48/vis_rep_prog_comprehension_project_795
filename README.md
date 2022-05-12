@@ -14,6 +14,5 @@ Two jupyter notebooks:
 2. Vision_Transformer_VIT32.ipynb: Code for VIT32: This notebook contains the code for vision transformer VIT32
    1. Follow similar instructions
    2. Run the cells
-   3. 
       
 
