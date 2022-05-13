@@ -1,5 +1,9 @@
 # vis_rep_prog_comprehension_project_795
 
+795 Project Experiments.pdf:
+  Contains model configurations for experiments
+
+
 Two jupyter notebooks:
 
 1. CS_795_Final_Code.ipynb: 
